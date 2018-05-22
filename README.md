@@ -15,6 +15,9 @@ This is a template directory to make things go quicker in the morning.
 * Run npm install to install all dependencies
 * Run npm run start to build and start the development environment
 
+# Notes
+* If you want to rename your assets folder, currently known as 'images', **Make sure to change the outputPath and inputPath in webpack.config.js > module > rules > file-loader to your desired assets directory name.**
+
 # Technologies
 * HTML
 * CSS
