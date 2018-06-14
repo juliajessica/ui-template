@@ -55,11 +55,6 @@ _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@g
 | :------------ |
 | Webpack & CSS Style Loader |
 
-### <span style="color:#74875d;">Specs</span>
-| Behavior | Input | Output |
-| :-------------     | :------------- | :------------- |
-| The program will  | Input: "" | Output:  |
-
 ### <span style="color:#74875d;">License</span>
 
 Copyright (c) 2018 ****_Julia Sheremet_****
